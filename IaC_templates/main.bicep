@@ -1,4 +1,4 @@
-@description('The name of the Azure Function App')
+@description('The name of the Azure Function Application')
 param functionAppName string = 'fa-typescript-secured-iac'
 
 @description('Storage Account type')
